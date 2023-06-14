@@ -4,4 +4,4 @@ compatibility_date = "2023-05-18"
 
 #[env.production]
 #[env.production.vars]
-#TOKEN = "production_value"
+TOKEN = "some-token"
